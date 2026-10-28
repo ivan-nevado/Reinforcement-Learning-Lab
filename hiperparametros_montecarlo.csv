@@ -1,0 +1,5 @@
+﻿,n_bins,alpha,gamma,first_visit,eps_min,decay_frac
+Tendencia + ciclo,20,0.001,0.0,False,0.01,0.6
+Browniano,20,,0.0,True,0.1,0.6
+Reversión a la media,20,0.001,0.0,False,0.05,0.3
+Regímenes,20,,0.9,True,0.1,0.3

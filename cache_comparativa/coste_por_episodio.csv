@@ -1,0 +1,29 @@
+Agente,Generador,ms/episodio
+Q-Learning,Tendencia + ciclo,8.013691999949515
+Q-Learning,Browniano,10.394958998076618
+Q-Learning,Reversión a la media,8.43986300053075
+Q-Learning,Regímenes,8.278757999651134
+Double Q-Learning,Tendencia + ciclo,8.065223000012338
+Double Q-Learning,Browniano,10.44422599952668
+Double Q-Learning,Reversión a la media,8.48123800009489
+Double Q-Learning,Regímenes,8.280631001107395
+Q-Learning (estado ampliado),Tendencia + ciclo,18.78829900175333
+Q-Learning (estado ampliado),Browniano,21.65407699998468
+Q-Learning (estado ampliado),Reversión a la media,21.20056299958378
+Q-Learning (estado ampliado),Regímenes,23.297556000761688
+Monte Carlo,Tendencia + ciclo,9.636941000353545
+Monte Carlo,Browniano,9.229395999573171
+Monte Carlo,Reversión a la media,10.789602999575436
+Monte Carlo,Regímenes,8.856369000859559
+SARSA,Tendencia + ciclo,7.9722599987871945
+SARSA,Browniano,7.673609999474138
+SARSA,Reversión a la media,8.804361000657082
+SARSA,Regímenes,9.100444000214338
+SARSA (hiperparámetros de Q-Learning),Tendencia + ciclo,8.2002710015513
+SARSA (hiperparámetros de Q-Learning),Browniano,8.016622001305223
+SARSA (hiperparámetros de Q-Learning),Reversión a la media,8.587797998916358
+SARSA (hiperparámetros de Q-Learning),Regímenes,8.55887700105086
+Q-Learning (hiperparámetros de MC),Tendencia + ciclo,9.849257001187652
+Q-Learning (hiperparámetros de MC),Browniano,10.57922099949792
+Q-Learning (hiperparámetros de MC),Reversión a la media,10.830570999532938
+Q-Learning (hiperparámetros de MC),Regímenes,9.097430999390781
