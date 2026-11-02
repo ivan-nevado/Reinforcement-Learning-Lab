@@ -1,0 +1,42 @@
+{
+ "Tendencia + ciclo": {
+  "lr": 0.000625,
+  "lr_final": 0.1,
+  "gamma": 0.5,
+  "hidden": 64,
+  "batch": 256,
+  "eps_final": 0.02,
+  "eps_frac": 0.3,
+  "target_every": 1000
+ },
+ "Reversión a la media": {
+  "lr": 0.001477,
+  "lr_final": 0.01,
+  "gamma": 0.9,
+  "hidden": 64,
+  "batch": 256,
+  "eps_final": 0.02,
+  "eps_frac": 0.6,
+  "target_every": 250
+ },
+ "Regímenes": {
+  "lr": 0.000367,
+  "lr_final": 0.01,
+  "gamma": 0.5,
+  "hidden": 64,
+  "batch": 128,
+  "eps_final": 0.1,
+  "eps_frac": 0.6,
+  "target_every": 1000
+ },
+ "Browniano": {
+  "lr": 0.000121,
+  "lr_final": 0.01,
+  "gamma": 0.0,
+  "hidden": 32,
+  "batch": 256,
+  "eps_final": 0.05,
+  "eps_frac": 0.3,
+  "target_every": 250
+ }
+}

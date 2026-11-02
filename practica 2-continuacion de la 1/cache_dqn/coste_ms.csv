@@ -1,0 +1,17 @@
+variante,gen,ms
+DQN,Tendencia + ciclo,150.91749998100568
+DQN,Browniano,134.1952999937348
+DQN,Reversión a la media,145.60575000359677
+DQN,Regímenes,134.55570001679007
+Doble DQN,Tendencia + ciclo,152.9183499951614
+Doble DQN,Browniano,137.9641000094125
+Doble DQN,Reversión a la media,160.86669999640435
+Doble DQN,Regímenes,146.90055001119617
+DQN en duelo,Tendencia + ciclo,190.70530000317376
+DQN en duelo,Browniano,164.85210000246298
+DQN en duelo,Reversión a la media,180.29409999144264
+DQN en duelo,Regímenes,164.07459999027196
+Doble DQN en duelo,Tendencia + ciclo,203.80395001848228
+Doble DQN en duelo,Browniano,183.17805000697263
+Doble DQN en duelo,Reversión a la media,198.29935001325794
+Doble DQN en duelo,Regímenes,180.1736999914283
