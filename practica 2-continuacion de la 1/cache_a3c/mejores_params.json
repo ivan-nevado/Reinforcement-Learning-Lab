@@ -1,0 +1,38 @@
+{
+ "Tendencia + ciclo": {
+  "lr": 0.000815,
+  "lr_final": 1.0,
+  "gamma": 0.5,
+  "hidden": 64,
+  "n_steps": 20,
+  "beta": 0.05,
+  "beta_final": 0.1
+ },
+ "Reversión a la media": {
+  "lr": 0.000466,
+  "lr_final": 1.0,
+  "gamma": 0.0,
+  "hidden": 32,
+  "n_steps": 5,
+  "beta": 0.05,
+  "beta_final": 0.1
+ },
+ "Browniano": {
+  "lr": 0.002356,
+  "lr_final": 0.1,
+  "gamma": 0.99,
+  "hidden": 64,
+  "n_steps": 20,
+  "beta": 0.01,
+  "beta_final": 0.1
+ },
+ "Regímenes": {
+  "lr": 0.002097,
+  "lr_final": 0.1,
+  "gamma": 0.0,
+  "hidden": 32,
+  "n_steps": 20,
+  "beta": 0.05,
+  "beta_final": 0.1
+ }
+}

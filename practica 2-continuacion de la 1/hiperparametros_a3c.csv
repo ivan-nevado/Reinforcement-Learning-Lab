@@ -1,0 +1,5 @@
+﻿,lr,lr_final,gamma,hidden,n_steps,beta,beta_final
+Tendencia + ciclo,0.000815,1.0,0.5,64.0,20.0,0.05,0.1
+Reversión a la media,0.000466,1.0,0.0,32.0,5.0,0.05,0.1
+Browniano,0.002356,0.1,0.99,64.0,20.0,0.01,0.1
+Regímenes,0.002097,0.1,0.0,32.0,20.0,0.05,0.1
