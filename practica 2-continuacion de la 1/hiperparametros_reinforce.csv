@@ -1,0 +1,9 @@
+﻿,lr,lr_final,gamma,hidden,beta,beta_final
+REINFORCE|Tendencia + ciclo,0.000762,0.1,0.5,64.0,0.01,1.0
+REINFORCE con baseline|Tendencia + ciclo,0.002097,0.1,0.0,32.0,0.01,0.1
+REINFORCE con baseline|Reversión a la media,0.001516,1.0,0.5,32.0,0.05,1.0
+REINFORCE|Reversión a la media,0.002913,1.0,0.99,64.0,0.001,1.0
+REINFORCE|Browniano,0.002097,0.1,0.0,32.0,0.01,0.1
+REINFORCE|Regímenes,0.002097,0.1,0.0,32.0,0.01,0.1
+REINFORCE con baseline|Browniano,0.002097,0.1,0.0,32.0,0.01,0.1
+REINFORCE con baseline|Regímenes,0.002097,0.1,0.0,32.0,0.01,0.1

@@ -1,0 +1,82 @@
+{
+ "REINFORCE|Tendencia + ciclo": {
+  "lr": 0.000762,
+  "lr_final": 0.1,
+  "gamma": 0.5,
+  "hidden": 64,
+  "beta": 0.01,
+  "beta_final": 1.0,
+  "baseline": false,
+  "config": 1
+ },
+ "REINFORCE con baseline|Tendencia + ciclo": {
+  "lr": 0.002097,
+  "lr_final": 0.1,
+  "gamma": 0.0,
+  "hidden": 32,
+  "beta": 0.01,
+  "beta_final": 0.1,
+  "baseline": true,
+  "config": 0
+ },
+ "REINFORCE con baseline|Reversión a la media": {
+  "lr": 0.001516,
+  "lr_final": 1.0,
+  "gamma": 0.5,
+  "hidden": 32,
+  "beta": 0.05,
+  "beta_final": 1.0,
+  "baseline": true,
+  "config": 9
+ },
+ "REINFORCE|Reversión a la media": {
+  "lr": 0.002913,
+  "lr_final": 1.0,
+  "gamma": 0.99,
+  "hidden": 64,
+  "beta": 0.001,
+  "beta_final": 1.0,
+  "baseline": false,
+  "config": 3
+ },
+ "REINFORCE|Browniano": {
+  "lr": 0.002097,
+  "lr_final": 0.1,
+  "gamma": 0.0,
+  "hidden": 32,
+  "beta": 0.01,
+  "beta_final": 0.1,
+  "baseline": false,
+  "config": 0
+ },
+ "REINFORCE|Regímenes": {
+  "lr": 0.002097,
+  "lr_final": 0.1,
+  "gamma": 0.0,
+  "hidden": 32,
+  "beta": 0.01,
+  "beta_final": 0.1,
+  "baseline": false,
+  "config": 0
+ },
+ "REINFORCE con baseline|Browniano": {
+  "lr": 0.002097,
+  "lr_final": 0.1,
+  "gamma": 0.0,
+  "hidden": 32,
+  "beta": 0.01,
+  "beta_final": 0.1,
+  "baseline": true,
+  "config": 0
+ },
+ "REINFORCE con baseline|Regímenes": {
+  "lr": 0.002097,
+  "lr_final": 0.1,
+  "gamma": 0.0,
+  "hidden": 32,
+  "beta": 0.01,
+  "beta_final": 0.1,
+  "baseline": true,
+  "config": 0
+ }
+}

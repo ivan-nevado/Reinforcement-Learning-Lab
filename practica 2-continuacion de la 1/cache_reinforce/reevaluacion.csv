@@ -1,0 +1,17 @@
+variante,gen,config,score,lr,lr_final,gamma,hidden,beta,beta_final
+REINFORCE,Browniano,0,0.0,0.002097,0.1,0.0,32,0.01,0.1
+REINFORCE,Browniano,1,0.0,0.000762,0.1,0.5,64,0.01,1.0
+REINFORCE,Regímenes,0,0.0,0.002097,0.1,0.0,32,0.01,0.1
+REINFORCE,Regímenes,1,0.0,0.000762,0.1,0.5,64,0.01,1.0
+REINFORCE,Reversión a la media,3,0.09570230705004135,0.002913,1.0,0.99,64,0.001,1.0
+REINFORCE,Reversión a la media,4,0.02421921250982759,0.002377,0.1,0.0,64,0.05,1.0
+REINFORCE,Tendencia + ciclo,1,6.287554231940291,0.000762,0.1,0.5,64,0.01,1.0
+REINFORCE,Tendencia + ciclo,12,6.207333241523298,0.001526,0.1,0.0,32,0.05,0.1
+REINFORCE con baseline,Browniano,0,0.0,0.002097,0.1,0.0,32,0.01,0.1
+REINFORCE con baseline,Browniano,1,0.0,0.000762,0.1,0.5,64,0.01,1.0
+REINFORCE con baseline,Regímenes,0,0.0,0.002097,0.1,0.0,32,0.01,0.1
+REINFORCE con baseline,Regímenes,1,0.0,0.000762,0.1,0.5,64,0.01,1.0
+REINFORCE con baseline,Reversión a la media,4,0.01994423594653425,0.002377,0.1,0.0,64,0.05,1.0
+REINFORCE con baseline,Reversión a la media,9,0.17489781948150085,0.001516,1.0,0.5,32,0.05,1.0
+REINFORCE con baseline,Tendencia + ciclo,0,6.222478127627575,0.002097,0.1,0.0,32,0.01,0.1
+REINFORCE con baseline,Tendencia + ciclo,9,6.15958484320697,0.001516,1.0,0.5,32,0.05,1.0
