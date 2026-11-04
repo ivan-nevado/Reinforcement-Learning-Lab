@@ -1,0 +1,41 @@
+﻿Generador,Agente,Familia,Log-ret. medio,Std log-ret. entre semillas,% series > B&H,Operaciones,Episodios hasta convergencia,ms/episodio,Tiempo hasta convergencia (s)
+Tendencia + ciclo,Q-Learning,tabular (TD),6.3381,0.1022,96.4,57.812,300.0,8.0137,2.4041
+Tendencia + ciclo,SARSA,tabular (TD),6.3162,0.2336,96.6,47.05,500.0,7.9723,3.9861
+Tendencia + ciclo,Monte Carlo,tabular (MC),6.522,0.0391,97.4,39.476,500.0,9.6369,4.8184
+Tendencia + ciclo,DQN,valor (red),6.0919,0.1824,97.6,54.27,60.0,150.9175,9.055
+Tendencia + ciclo,Doble DQN,valor (red),6.2408,0.1013,97.6,50.964,60.0,152.9183,9.1751
+Tendencia + ciclo,A3C,actor-crítico,6.4123,0.1889,98.4,29.776,350.0,24.6864,8.6402
+Tendencia + ciclo,REINFORCE,política (MC),6.4864,0.0168,99.0,30.118,400.0,23.2721,9.3088
+Tendencia + ciclo,REINFORCE con baseline,política (MC) + V(s),6.4558,0.0326,98.6,31.074,300.0,22.5071,6.7521
+Tendencia + ciclo,Buy & Hold,referencia,3.3164,,0.0,1.0,,,
+Tendencia + ciclo,Aleatorio,referencia,1.5583,,19.0,164.26,,,
+Browniano,Q-Learning,tabular (TD),0.0,0.0,51.0,0.0,400.0,10.395,4.158
+Browniano,SARSA,tabular (TD),0.0,0.0,51.0,0.0,1700.0,7.6736,13.0451
+Browniano,Monte Carlo,tabular (MC),-0.0124,0.0249,48.8,0.2,700.0,9.2294,6.4606
+Browniano,DQN,valor (red),-0.0052,0.0104,50.4,0.686,80.0,134.1953,10.7356
+Browniano,Doble DQN,valor (red),-0.0052,0.0104,50.4,0.686,80.0,137.9641,11.0371
+Browniano,A3C,actor-crítico,-0.073,0.0395,38.4,13.694,800.0,24.8119,19.8495
+Browniano,REINFORCE,política (MC),0.0,0.0,51.0,0.0,300.0,23.3821,7.0146
+Browniano,REINFORCE con baseline,política (MC) + V(s),0.0,0.0,51.0,0.0,300.0,21.4574,6.4372
+Browniano,Buy & Hold,referencia,-0.0623,,0.0,1.0,,,
+Browniano,Aleatorio,referencia,-0.187,,37.0,164.26,,,
+Reversión a la media,Q-Learning,tabular (TD),0.1548,0.0416,80.0,52.672,2200.0,8.4399,18.5678
+Reversión a la media,SARSA,tabular (TD),0.203,0.0252,88.8,25.052,1600.0,8.8044,14.087
+Reversión a la media,Monte Carlo,tabular (MC),0.2384,0.0149,90.0,21.476,1600.0,10.7896,17.2634
+Reversión a la media,DQN,valor (red),0.1748,0.0446,82.8,47.454,160.0,145.6058,23.2969
+Reversión a la media,Doble DQN,valor (red),0.2007,0.02,86.2,40.666,180.0,160.8667,28.956
+Reversión a la media,A3C,actor-crítico,0.1135,0.0439,75.4,37.246,750.0,67.3728,50.5296
+Reversión a la media,REINFORCE,política (MC),0.0527,0.0638,60.0,12.7,1700.0,23.3324,39.665
+Reversión a la media,REINFORCE con baseline,política (MC) + V(s),0.0853,0.0661,73.0,14.514,2300.0,23.7195,54.555
+Reversión a la media,Buy & Hold,referencia,-0.0049,,0.0,1.0,,,
+Reversión a la media,Aleatorio,referencia,-0.1694,,24.0,164.26,,,
+Regímenes,Q-Learning,tabular (TD),0.0396,0.0225,69.0,45.566,2000.0,8.2788,16.5576
+Regímenes,SARSA,tabular (TD),0.0,0.0,58.0,0.0,600.0,9.1004,5.4602
+Regímenes,Monte Carlo,tabular (MC),0.0308,0.0112,67.0,38.572,1300.0,8.8564,11.5133
+Regímenes,DQN,valor (red),0.0298,0.0398,64.0,8.712,140.0,134.5557,18.8378
+Regímenes,Doble DQN,valor (red),0.0081,0.0106,63.6,17.756,180.0,146.9006,26.4421
+Regímenes,A3C,actor-crítico,0.0,0.0,58.0,0.0,150.0,27.5082,4.1262
+Regímenes,REINFORCE,política (MC),0.0,0.0,58.0,0.0,300.0,22.6828,6.8048
+Regímenes,REINFORCE con baseline,política (MC) + V(s),0.0,0.0,58.0,0.0,300.0,22.7899,6.837
+Regímenes,Buy & Hold,referencia,-0.1276,,0.0,1.0,,,
+Regímenes,Aleatorio,referencia,-0.2198,,36.0,164.26,,,

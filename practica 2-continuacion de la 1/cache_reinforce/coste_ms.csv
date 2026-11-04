@@ -1,0 +1,9 @@
+variante,gen,ms
+REINFORCE,Tendencia + ciclo,23.27212099917233
+REINFORCE,Browniano,23.382057000417262
+REINFORCE,Reversión a la media,23.332378999330103
+REINFORCE,Regímenes,22.682765999343246
+REINFORCE con baseline,Tendencia + ciclo,22.507084000390023
+REINFORCE con baseline,Browniano,21.457420999649912
+REINFORCE con baseline,Reversión a la media,23.719545998610556
+REINFORCE con baseline,Regímenes,22.789885997772217
